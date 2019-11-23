@@ -1,0 +1,10 @@
+# Needed for stable release
+-[x] Displays Room
+-[x] Displays Options 
+-[x] Linking works
+
+# Additions
+[ ] Code cleanup
+[ ] Items
+[ ] Requirement linking
+[ ] Saving and loading
