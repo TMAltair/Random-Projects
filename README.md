@@ -1,8 +1,10 @@
-# Old-Projects
-Holds old projects
+# Random Projects
+This repo holds random code that I have written that doesn't need it's own repo, projects here probably won't be updated often (hence this repo)
 
-# OldDusk/K-Script
-A text mod room maker thing for path of a new dawn
+Without further ado...
 
-# CMZ mod installer
-A mod installer for CMZ
+## K-Script
+Old prototype software that was used to write newdawn
+
+## CMZ Mod Installer
+A mod installer for CastleMinerZ that I made to learn how to download files
